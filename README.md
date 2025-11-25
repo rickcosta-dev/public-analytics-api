@@ -220,7 +220,7 @@ public-analytics-api/
 ```
 
 ## Imagem
-[Exemplo](img/image.png)
+[Exemplo](image.png)
 
 
 ## 🔒 Segurança
