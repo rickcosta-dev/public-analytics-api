@@ -219,6 +219,10 @@ public-analytics-api/
 └── README.md                    # Documentação
 ```
 
+## Imagem
+[Exemplo:](file:///E:/public-analytics-api/image.png)
+
+
 ## 🔒 Segurança
 
 - ✅ Não exponha seu `.env` no Git
