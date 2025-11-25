@@ -23,7 +23,7 @@ API completa de analytics com integração Discord para rastreamento de visualiz
 ### 1. Clone o repositório
 
 ```bash
-git clone https://github.com/seu-usuario/public-analytics-api.git
+git clone https://github.com/rickcosta-dev/public-analytics-api.git
 cd public-analytics-api
 ```
 
