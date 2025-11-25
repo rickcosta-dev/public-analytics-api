@@ -1,0 +1,26 @@
+{
+  "name": "public-analytics-api",
+  "version": "1.0.0",
+  "description": "API publica de analytics com integracao Discord",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "dev": "nodemon src/index.js",
+    "bot": "node bot/bot.js",
+    "dev:bot": "nodemon bot/bot.js",
+    "all": "concurrently \"npm run dev\" \"npm run dev:bot\"",
+    "setup": "node scripts/setup.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "cors": "^2.8.5",
+    "dotenv": "^16.3.1",
+    "sqlite3": "^5.1.6",
+    "axios": "^1.6.2",
+    "discord.js": "^14.14.1"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.2",
+    "concurrently": "^8.2.2"
+  }
+}

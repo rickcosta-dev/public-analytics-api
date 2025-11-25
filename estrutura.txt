@@ -1,0 +1,11 @@
+src/
+  index.js
+  routes.js
+  database.js
+  services/discordService.js
+  services/analyticsService.js
+bot/
+  bot.js
+.env
+package.json
+README.md
