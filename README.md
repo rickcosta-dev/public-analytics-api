@@ -220,6 +220,7 @@ public-analytics-api/
 ```
 
 ## Imagem
+
 [Exemplo](imgs/image.png)
 
 
@@ -286,4 +287,8 @@ Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para ma
 
 ---
 
+<<<<<<< HEAD
 Feito com ❤️ por [RickZin](https://github.com/rickcosta-dev)
+=======
+Feito com ❤️ por [RickZin](https://github.com/rickcosta-dev)
+>>>>>>> b30b0ae942b1f2abb8550f6c8c44eaec1472937a
