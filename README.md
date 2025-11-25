@@ -220,8 +220,12 @@ public-analytics-api/
 ```
 
 ## Imagem
+<<<<<<< HEAD
 
 [Exemplo](imgs/image.png)
+=======
+[Exemplo](image.png)
+>>>>>>> aae72106b56ad7a0aefb6812aa11e85faf4a8667
 
 
 ## 🔒 Segurança
