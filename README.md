@@ -271,7 +271,7 @@ Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para ma
 
 - 🐛 Encontrou um bug? [Abra uma issue](https://github.com/seu-usuario/public-analytics-api/issues)
 - 💡 Tem uma sugestão? [Abra uma discussion](https://github.com/seu-usuario/public-analytics-api/discussions)
-- 📧 Email: seu-email@exemplo.com
+- 📧 Email: rickdev0021@gmail.com
 
 ## 🎉 Agradecimentos
 
@@ -281,4 +281,4 @@ Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para ma
 
 ---
 
-Feito com ❤️ por [Seu Nome](https://github.com/seu-usuario)
+Feito com ❤️ por [Seu Nome](https://github.com/rickcosta-dev)
