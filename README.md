@@ -23,7 +23,7 @@ API completa de analytics com integração Discord para rastreamento de visualiz
 ### 1. Clone o repositório
 
 ```bash
-git clone https://github.com/seu-usuario/public-analytics-api.git
+git clone https://github.com/rickcosta-dev/public-analytics-api.git
 cd public-analytics-api
 ```
 
@@ -219,6 +219,10 @@ public-analytics-api/
 └── README.md                    # Documentação
 ```
 
+## Imagem
+[Exemplo](imgs/image.png)
+
+
 ## 🔒 Segurança
 
 - ✅ Não exponha seu `.env` no Git
@@ -271,7 +275,8 @@ Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para ma
 
 - 🐛 Encontrou um bug? [Abra uma issue](https://github.com/seu-usuario/public-analytics-api/issues)
 - 💡 Tem uma sugestão? [Abra uma discussion](https://github.com/seu-usuario/public-analytics-api/discussions)
-- 📧 Email: seu-email@exemplo.com
+- 📧 Email: rickdev0021@gmail.com
+- Discord: rickzin02
 
 ## 🎉 Agradecimentos
 
@@ -281,4 +286,4 @@ Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para ma
 
 ---
 
-Feito com ❤️ por [Seu Nome](https://github.com/seu-usuario)
+Feito com ❤️ por [RickZin](https://github.com/rickcosta-dev)
