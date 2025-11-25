@@ -220,12 +220,7 @@ public-analytics-api/
 ```
 
 ## Imagem
-<<<<<<< HEAD
-
-[Exemplo](imgs/image.png)
-=======
-[Exemplo](image.png)
->>>>>>> aae72106b56ad7a0aefb6812aa11e85faf4a8667
+![Exemplo](imgs/image.png)
 
 
 ## 🔒 Segurança
@@ -291,8 +286,4 @@ Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para ma
 
 ---
 
-<<<<<<< HEAD
 Feito com ❤️ por [RickZin](https://github.com/rickcosta-dev)
-=======
-Feito com ❤️ por [RickZin](https://github.com/rickcosta-dev)
->>>>>>> b30b0ae942b1f2abb8550f6c8c44eaec1472937a
