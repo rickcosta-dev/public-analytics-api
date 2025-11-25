@@ -219,6 +219,9 @@ public-analytics-api/
 └── README.md                    # Documentação
 ```
 
+## Imagem:
+[Imagem](https://cdn.discordapp.com/attachments/1433502679392321707/1442972803178692730/image.png?ex=692760a5&is=69260f25&hm=2d2cb77d48f3afd018febc9543074ec892624f988406d8a69d218a8d7401e760&)
+
 ## 🔒 Segurança
 
 - ✅ Não exponha seu `.env` no Git
